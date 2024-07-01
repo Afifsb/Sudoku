@@ -1,5 +1,5 @@
 import React from 'react';
-import Sudoku from './components/Sudoku';
+import Sudoku from '../src/components/Sudoku';
 
 function App() {
   return (
